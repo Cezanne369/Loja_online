@@ -1,0 +1,51 @@
+id_cliente,nome,idade,cidade,estado,genero
+1,Felipe817,39,Curitiba,MG,Feminino
+2,Heitor102,48,São Paulo,RJ,Feminino
+3,Heitor339,25,Recife,PE,Masculino
+4,Ana357,39,Curitiba,PR,Masculino
+5,Heitor793,26,São Paulo,CE,Feminino
+6,Diego789,55,Curitiba,MG,Feminino
+7,Isabela380,50,Belo Horizonte,PR,Masculino
+8,Diego713,30,Curitiba,RJ,Feminino
+9,Heitor291,44,Belo Horizonte,MG,Masculino
+10,Gabriela641,57,São Paulo,CE,Feminino
+11,Bruno785,31,Curitiba,PE,Feminino
+12,Bruno863,23,Curitiba,CE,Feminino
+13,Heitor953,36,São Paulo,MG,Masculino
+14,Gabriela410,47,Rio de Janeiro,CE,Masculino
+15,Eduarda471,28,Recife,CE,Feminino
+16,Diego831,34,São Paulo,MG,Masculino
+17,Diego417,32,Belo Horizonte,RJ,Feminino
+18,Felipe857,29,Curitiba,PR,Feminino
+19,Bruno245,37,São Paulo,SP,Masculino
+20,Heitor348,20,Curitiba,PE,Feminino
+21,Diego306,26,São Paulo,CE,Masculino
+22,Isabela940,42,São Paulo,PE,Feminino
+23,Isabela853,33,Recife,SP,Feminino
+24,Bruno480,57,Curitiba,CE,Feminino
+25,João673,39,São Paulo,PE,Masculino
+26,Heitor733,42,Recife,PE,Masculino
+27,Bruno972,55,Fortaleza,PE,Masculino
+28,Gabriela488,55,Curitiba,PR,Masculino
+29,Diego573,55,Recife,PR,Masculino
+30,Felipe812,48,Fortaleza,PR,Masculino
+31,Ana702,48,São Paulo,PR,Feminino
+32,Carla606,48,Belo Horizonte,SP,Feminino
+33,Gabriela279,38,Belo Horizonte,RJ,Masculino
+34,Diego110,18,Belo Horizonte,CE,Feminino
+35,Ana499,36,Belo Horizonte,MG,Masculino
+36,Heitor622,38,Belo Horizonte,MG,Masculino
+37,Diego859,24,Fortaleza,MG,Masculino
+38,Diego468,34,Curitiba,PR,Masculino
+39,Eduarda612,51,São Paulo,RJ,Masculino
+40,Eduarda631,25,Curitiba,PE,Masculino
+41,Ana135,46,Recife,CE,Masculino
+42,Gabriela124,37,Recife,MG,Masculino
+43,Heitor899,29,Curitiba,MG,Masculino
+44,Felipe536,56,Curitiba,SP,Masculino
+45,Diego424,47,Fortaleza,MG,Masculino
+46,Isabela554,46,Recife,SP,Masculino
+47,Bruno800,52,Fortaleza,RJ,Masculino
+48,Gabriela755,54,Fortaleza,MG,Feminino
+49,Felipe391,48,Curitiba,SP,Masculino
+50,Gabriela750,39,Curitiba,PR,Feminino
